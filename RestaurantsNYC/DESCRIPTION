@@ -1,0 +1,10 @@
+Package: RestaurantsNYC
+Type: Package
+Title: Data for the NYC Restaurants example in Data Computing
+Version: 0.1
+Date: 2015-05-20
+Author: Daniel Kaplan
+Maintainer: Daniel Kaplan <dtkaplan@gmail.com>
+Description: Brings together the various forms of data in the NYC restaurant data example in Data Computing
+License: CC0
+LazyData: TRUE
