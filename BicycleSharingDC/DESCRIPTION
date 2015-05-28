@@ -1,0 +1,10 @@
+Package: BikeSharing
+Type: Package
+Title: Data for the Data Computing Bicycle Sharing Project
+Version: 0.1
+Date: 2015-05-28
+Author: Daniel Kaplan
+Maintainer: Daniel Kaplan <kaplan@macalester.edu>
+Description: Contains the data files used in the Bicycle Sharing project
+License: GPL
+LazyData: TRUE
